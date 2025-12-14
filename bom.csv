@@ -1,0 +1,20 @@
+﻿Index,LCSC#,MPN,Manufacturer,Package,Customer #,Description,RoHS,Quantity,MOQ,Multiple,Unit Price($),Extended Price($),Product Link,,,,,Total
+1,C1525,CL05B104KO5NNNC,Samsung Electro-Mechanics,0402,,16V 100nF X7R ±10% 0402 Ceramic Capacitors RoHS,yes,100,100,100,0.0012,0.12,https://www.lcsc.com/product-detail/C1525.html,,,,,0.12
+2,C14445,CL05A105KP5NNNC,Samsung Electro-Mechanics,0402,,10V 1uF X5R ±10% 0402 Ceramic Capacitors RoHS,yes,100,100,100,0.0017,0.17,https://www.lcsc.com/product-detail/C14445.html,,,,,0.29
+3,C76950,GRM1555C1H150JA01D,muRata,0402,,50V 15pF C0G ±5% 0402 Ceramic Capacitors RoHS,yes,100,100,100,0.0025,0.25,https://www.lcsc.com/product-detail/C76950.html,,,,,0.54
+4,C315248,CL05A106MP5NUNC,Samsung Electro-Mechanics,0402,,10V 10uF X5R ±20% 0402 Ceramic Capacitors RoHS,yes,20,20,20,0.0085,0.17,https://www.lcsc.com/product-detail/C315248.html,,,,,0.71
+5,C191123,ERJ2RKF1002X,PANASONIC,0402,,100mW 10kΩ 50V ±100ppm/℃ Thick Film Resistor ±1% 0402 Chip Resistor - Surface Mount RoHS,yes,100,100,100,0.0045,0.45,https://www.lcsc.com/product-detail/C191123.html,,,,,1.16
+6,C242161,ERJ2RKF1001X,PANASONIC,0402,,100mW 1kΩ ±100ppm/℃ Thick Film Resistor ±1% 0402 Chip Resistor - Surface Mount RoHS,yes,100,100,100,0.0049,0.49,https://www.lcsc.com/product-detail/C242161.html,,,,,1.65
+7,C105872,RC0402FR-075K1L,YAGEO,0402,,5.1kΩ 62.5mW 50V ±100ppm/℃ Thick Film Resistor ±1% 0402 Chip Resistor - Surface Mount RoHS,yes,100,100,100,0.0007,0.07,https://www.lcsc.com/product-detail/C105872.html,,,,,1.72
+8,C2689642,PTS636SK25SMTRLFS,C&K,"SMD,6x3.5mm",,"12V Rectangular Button SPST-NO 50mA SMD,6x3.5mm Tactile Switches RoHS",yes,5,5,5,0.3601,1.8,https://www.lcsc.com/product-detail/C2689642.html,,,,,3.52
+9,C2040,RP2040,Raspberry Pi,LQFN-56(7x7),,133MHz 30 LQFN-56(7x7) Microcontrollers RoHS,yes,1,1,1,0.9482,0.95,https://www.lcsc.com/product-detail/C2040.html,,,,,4.47
+10,C276421,ABM8G-12.000MHZ-B4Y-T,ABRACON,SMD3225-4P,,10pF SMD3225-4P Crystals RoHS,yes,2,1,1,0.4617,0.92,https://www.lcsc.com/product-detail/C276421.html,,,,,5.39
+11,C165948,TYPE-C-31-M-12,Korean Hroparts Elec,SMD,,"1 16P Type-C SMD USB, DVI, HDMI Connector Assemblies RoHS",yes,5,5,5,0.1762,0.88,https://www.lcsc.com/product-detail/C165948.html,,,,,6.27
+12,C42431804,PH2.54-1X20P-H25,JXTCONN,"Through Hole,P=2.54mm",,"20P 1x20P Gold Brass -40℃~+105℃ Pin Header Black 2.54mm 2.5mm 6mm 3mm 3A 1 Through Hole Through Hole,P=2.54mm Headers, Male Pins RoHS",yes,5,5,5,0.0345,0.17,https://www.lcsc.com/product-detail/C42431804.html,,,,,6.44
+13,C105875,RC0402FR-07330RL,YAGEO,0402,,330Ω 62.5mW 50V ±100ppm/℃ Thick Film Resistor ±1% 0402 Chip Resistor - Surface Mount RoHS,yes,100,100,100,0.0007,0.07,https://www.lcsc.com/product-detail/C105875.html,,,,,6.51
+14,C6186,AMS1117-3.3,Advanced Monolithic Systems,SOT-223,,"72dB@(120Hz) Positive Fixed 3.3V SOT-223 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators RoHS",yes,5,5,5,0.1653,0.83,https://www.lcsc.com/product-detail/C6186.html,,,,,7.34
+15,C97521,W25Q128JVSIQ,Winbond,SOIC-8-208mil,,128Mbit 2.7V~3.6V 133MHz SPI SOIC-8-208mil Memory (ICs) RoHS,yes,1,1,1,1.5657,1.57,https://www.lcsc.com/product-detail/C97521.html,,,,,8.91
+16,C138021,RC0402FR-0727RL,YAGEO,0402,,27Ω 62.5mW 50V ±100ppm/℃ Thick Film Resistor ±1% 0402 Chip Resistor - Surface Mount RoHS,yes,100,100,100,0.0007,0.07,https://www.lcsc.com/product-detail/C138021.html,,,,,8.98
+17,Shipping,,,global direct,,,,,,,,12.17,,,,,,21.15
+18,JLCPCB,,,STENCIL YES STENCIL BC ITS CHEAPER AND MORE FUN,,,,,,,,14.07,,,,,,35.22
+19,Shipping,,,Europackeg,,cheapest,,,,,,19.32,,,,,,54.54
