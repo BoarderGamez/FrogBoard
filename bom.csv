@@ -1,4 +1,4 @@
-﻿Index,LCSC#,MPN,Manufacturer,Package,Customer #,Description,RoHS,Quantity,MOQ,Multiple,Unit Price($),Extended Price($),Product Link,,,,,Total
+Index,LCSC#,MPN,Manufacturer,Package,Customer #,Description,RoHS,Quantity,MOQ,Multiple,Unit Price($),Extended Price($),Product Link,,,,,Total
 1,C1525,CL05B104KO5NNNC,Samsung Electro-Mechanics,0402,,16V 100nF X7R ±10% 0402 Ceramic Capacitors RoHS,yes,100,100,100,0.0012,0.12,https://www.lcsc.com/product-detail/C1525.html,,,,,0.12
 2,C14445,CL05A105KP5NNNC,Samsung Electro-Mechanics,0402,,10V 1uF X5R ±10% 0402 Ceramic Capacitors RoHS,yes,100,100,100,0.0017,0.17,https://www.lcsc.com/product-detail/C14445.html,,,,,0.29
 3,C76950,GRM1555C1H150JA01D,muRata,0402,,50V 15pF C0G ±5% 0402 Ceramic Capacitors RoHS,yes,100,100,100,0.0025,0.25,https://www.lcsc.com/product-detail/C76950.html,,,,,0.54
@@ -16,6 +16,6 @@
 15,C97521,W25Q128JVSIQ,Winbond,SOIC-8-208mil,,128Mbit 2.7V~3.6V 133MHz SPI SOIC-8-208mil Memory (ICs) RoHS,yes,1,1,1,1.5657,1.57,https://www.lcsc.com/product-detail/C97521.html,,,,,8.91
 16,C138021,RC0402FR-0727RL,YAGEO,0402,,27Ω 62.5mW 50V ±100ppm/℃ Thick Film Resistor ±1% 0402 Chip Resistor - Surface Mount RoHS,yes,100,100,100,0.0007,0.07,https://www.lcsc.com/product-detail/C138021.html,,,,,8.98
 17,Shipping,,,global direct,,,,,,,,12.17,,,,,,21.15
-18,JLCPCB,,,STENCIL YES STENCIL BC ITS CHEAPER AND MORE FUN,,,,,,,,14.07,,,,,,35.22
-19,Shipping,,,Europackeg,,cheapest,,,,,,19.32,,,,,,54.54
-20,customs,,,not cheap,,not cheap,,,,,,7.08,,,,,,61.64
+18,JLCPCB,,,,,,,,,,,6.04,,,,,,27.19
+19,Shipping,,,global direct,,cheapest,,,,,,6.51,,,,,,33.7
+20,customs,,,not cheap,,not cheap,,,,,,2.85,,,,,,36.55
